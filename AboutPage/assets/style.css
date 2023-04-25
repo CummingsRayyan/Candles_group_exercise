@@ -1,0 +1,35 @@
+/*About section*/
+.header {
+    border: 5px solid black;
+}
+
+html, body {
+    margin: 5px 0px 0px 0px;
+    padding: 15px;
+    background-image: linear-gradient(90deg, #a673a6, white);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    color: rgb(193, 84, 237);
+    border-style: solid ;
+}
+
+.lady3 {
+    height: 300px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.wax {
+    height:300px;
+    width:350px;
+}
+
+.icons {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    height: 40px;
+}
